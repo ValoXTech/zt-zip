@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/ValoXTech/zt-zip.svg?branch=master)](https://travis-ci.org/ValoXTech/zt-zip)
+
 ZIP - convenience methods
 =========================
 
