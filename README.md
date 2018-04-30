@@ -1,4 +1,8 @@
-[![Build Status](https://travis-ci.org/ValoXTech/zt-zip.svg?branch=master)](https://travis-ci.org/ValoXTech/zt-zip)
+- UNOFFICIAL
+
+[![Build Status](https://travis-ci.org/ValoXTech/zt-zip.svg?branch=master)](https://travis-ci.org/ValoXTech/zt-zip) [![](https://jitpack.io/v/ValoXTech/zt-zip.svg)](https://jitpack.io/#ValoXTech/zt-zip)
+
+- OFFICIAL
 
 ZIP - convenience methods
 =========================
